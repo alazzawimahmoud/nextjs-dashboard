@@ -1,0 +1,23 @@
+export default [
+  { id: "cardano", amount: 15846, investment: 13676.52 },
+  { id: "harmony", amount: 120000, investment: 2955.78 },
+  { id: "vechain", amount: 80000, investment: 2981.47 },
+  { id: "enjincoin", amount: 2500, investment: 2102.74 },
+  { id: "litecoin", amount: 11, investment: 1787.89 },
+  { id: "elrond-erd-2", amount: 10, investment: 974.44 },
+  { id: "reef-finance", amount: 77422.5, investment: 2168.5 },
+  { id: "chainlink", amount: 50, investment: 1247.22 },
+  { id: "zilliqa", amount: 10000, investment: 977.09 },
+  { id: "ripple", amount: 2000, investment: 715.7 },
+  { id: "stellar", amount: 3454.749585, investment: 1165.93 },
+  { id: "holotoken", amount: 400000, investment: 1080.43 },
+  { id: "iota", amount: 499.5, investment: 524.625 },
+  { id: "tezos", amount: 99.9, investment: 332.483333333333 },
+  { id: "certik", amount: 699.3, investment: 970.302096666667 },
+  { id: "dogecoin", amount: 5000, investment: 202.48 },
+  { id: "chiliz", amount: 2500, investment: 265.32 },
+  { id: "basic-attention-token", amount: 200, investment: 115.49 },
+  { id: "crypto-com-chain", amount: 500, investment: 93.02 },
+  { id: "ethereum", amount: 0.223637, investment: 837.159999999999 },
+  { id: "bitcoin", amount: 0.00104104, investment: 51.99 }
+];
